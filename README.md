@@ -14,14 +14,6 @@
 * `npm run start:debug` runs the project in debug mode
 * `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-
-## Preview
-
-[![Personal Preview](https://assets.startbootstrap.com/img/screenshots/themes/personal.png)](https://startbootstrap.github.io/startbootstrap-personal/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-personal/)**
-
-
 ### Contact Form
 
 The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
